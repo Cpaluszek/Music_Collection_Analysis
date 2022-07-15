@@ -5,4 +5,4 @@
  - Jupyterlab - python
  - Gephi
  
-![alt text](https://github.com/NoonSense/Music_Collection_Analysis/blob/main/Gephi_Export/artists_links.png?raw=true)
+![alt text](https://github.com/Cpaluszek/Music_Collection_Analysis/blob/main/artists_links.png?raw=true)
